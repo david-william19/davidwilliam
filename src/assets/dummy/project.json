@@ -17,42 +17,42 @@
         "id": 3,
         "title": "Hiji",
         "photo": "/static/media/web-hiji.134fd745.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "Hiji merupakan project website berbasis laravel dan bootstrap yang memiliki tujuan untuk membantu para toko/penjual online bisa memantau ketersediaan dari setiap e-commerce yang mereka miliki baik itu tokopedia, shopee dan juga bukalapak.",
+        "url": "https://github.com/izanagiwarrior/HIJI.git"
     },
     {
         "id": 4,
         "title": "Kampung Rotan",
         "photo": "/static/media/web-kampung-rotan.f37f6067.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "Kampung Rotan merupakan website yang memiliki tujuan untuk memberikan tempat atau wadah bagi para pengrajin rotan yang ada untuk bisa saling bekerja sama dan memperlihatkan produk mereka. teknologi yang digunakan dalam membangun website ini yaitu laravel dan bootstrap.",
+        "url": "https://github.com/Kampung-Rotan/E-Katalog.git"
     },
     {
         "id": 5,
         "title": "Dapur Syadit",
         "photo": "/static/media/web-dapur-syadit.e8f251de.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "Dapur Syadit merupakan website yang memiliki tujuan yaitu untuk membantu catering agar dapat memasarkan produk mereka dan juga dapat melakukan pemesanan sesuai yang dipilih oleh customer. teknologi yang digunakan dalam membangun webiste ini yaitu laravel dan bootstrap.",
+        "url": "https://github.com/izanagiwarrior/DapurSyadit.git"
     },
     {
         "id": 6,
         "title": "My Doctor",
         "photo": "/static/media/reactnative-my-doctor.201b928b.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "My Doctor merupakan aplikasi yang berfungsi sebagai media antara dokter dan pasien agar bisa memberikan keluhan yang dirasakan oleh pasien dan juga bisa digunakan untuk meminta rekomendasi tepat disaat sakit. teknologi yang digunakan dalam membangun aplikasi yaitu firebase dan react native.",
+        "url": "https://github.com/david-william19/my-doctor.git"
     },
     {
         "id": 7,
         "title": "Puspa",
         "photo": "/static/media/reactnative-puspa.26a7b8b3.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "Puspa merupakan platform mobile aplikasi yang berfungsi sebagai media untuk para tenaga medis yang ada di CISDI untuk melakukan pelatihan dengan mudah dan memberikan pembelajaran terkait bidang kesehatan. teknologi yang digunakan untuk membuat aplikasi ini adalah laravel sanctum dan react native.",
+        "url": "https://github.com/ZDF-HealthLearningPlatfrom/Mobile.git"
     },
     {
         "id": 8,
         "title": "Web Kelurahan Bojongsari",
         "photo": "/static/media/web-kelurahan-bojongsari.0e459eff.png",
-        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
-        "url": "https://github.com/david-william19/GameCatalogue.git"
+        "description": "web Kelurahan Bojongsari merupakan web aplikasi yang digunakan untuk para anggota keluarga yang ada di kelurahan tersebut untuk membuat surat pernyataan dengan mudah tanpa harus datang ke kelurahan tersebut. teknologi yang digunakan untuk membuat website ini ialah laravel dan bootstrap.",
+        "url": "https://github.com/david-william19/web-surat-pengantar.git"
     }
 ]
