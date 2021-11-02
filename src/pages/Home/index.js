@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { Hero, IosGamely } from '../../assets';
+import React from 'react'
+import { Hero, } from '../../assets';
 import { Container, EmojiContainer, TextContainer } from './style';
 
 const Home = () => {

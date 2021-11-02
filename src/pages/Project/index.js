@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { IosGamely, RNMyDoctor, RNPuspa, WebdapurSyadit, WebHiji, WebKampungRotan, WebKelurahanBojongsari, WebManajemen } from '../../assets';
+import React from 'react';
 import { projectJson } from '../../assets/dummy';
 import { Container, Card, CardBody, CardImg, CardContainer, CodeButton } from './style';
 
@@ -11,9 +10,6 @@ const Project = () => {
                 the project i'm working on</h1>
             <CardContainer>
                 {projectJson.map((value, idx) => {
-                    console.log(WebKelurahanBojongsari)
-                    console.log(`ini idx ${value.title} ini value ${idx}`)
-
                         return (< Card >
                     <CardImg src={value.photo} alt="logo" />
                     <CardBody>
