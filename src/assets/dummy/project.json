@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Gamely",
+        "photo": "/static/media/ios-gamely.5bf461ab.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 2,
+        "title": "Web Manajemen Karyawan",
+        "photo": "/static/media/web-manajemen-ruanghr.1fc1baaa.png",
+        "description": "Web Manajemen Karyawan merupakan project menggunakan codeigniter yang dibuat untuk membantu PT. Yaasmin Lokerbee untuk memantau seluruh kegiatan yang ada di perusahaan baik bagian IT, HR maupun atasan. Saya disini mengerjakan untuk bagian tampilan dari dashboard website.",
+        "url": "https://github.com/DeptITruangHR/web-manajemen-tugas-RuangHR-V1.git"
+    },
+    {
+        "id": 3,
+        "title": "Hiji",
+        "photo": "/static/media/web-hiji.f4722068.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 4,
+        "title": "Kampung Rotan",
+        "photo": "/static/media/web-kampung-rotan.f37f6067.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 5,
+        "title": "Dapur Syadit",
+        "photo": "/static/media/web-dapur-syadit.e8f251de.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 6,
+        "title": "My Doctor",
+        "photo": "/static/media/reactnative-my-doctor.201b928b.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 7,
+        "title": "Puspa",
+        "photo": "/static/media/reactnative-puspa.26a7b8b3.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    },
+    {
+        "id": 8,
+        "title": "Web Kelurahan Bojongsari",
+        "photo": "/static/media/web-kelurahan-bojongsari.0e459eff.png",
+        "description": "Gamely merupakan project IOS berbasis bahasa pemrograman Swift dan SwiftUI sebagai layout dari aplikasi ini. aplikasi ini menampilkan data dari API RAWG.IO tentang katalog game dan juga bisa menyimpan favorit dari artikel tersebut menggunakan core data yang sudah disediakan oleh xcode.",
+        "url": "https://github.com/david-william19/GameCatalogue.git"
+    }
+]
