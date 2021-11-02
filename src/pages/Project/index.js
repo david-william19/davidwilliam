@@ -1,4 +1,5 @@
 import React from 'react';
+import { WebHiji, WebManajemen } from '../../assets';
 import { projectJson } from '../../assets/dummy';
 import { Container, Card, CardBody, CardImg, CardContainer, CodeButton } from './style';
 
@@ -10,6 +11,8 @@ const Project = () => {
                 the project i'm working on</h1>
             <CardContainer>
                 {projectJson.map((value, idx) => {
+                    console.log(WebManajemen)
+                    console.log(WebHiji)
                         return (< Card >
                     <CardImg src={value.photo} alt="logo" />
                     <CardBody>
