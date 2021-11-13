@@ -7,5 +7,8 @@ import RNMyDoctor from './reactnative-my-doctor.png'
 import WebHiji from './web-hiji.png'
 import WebKampungRotan from './web-kampung-rotan.png'
 import WebKelurahanBojongsari from './web-kelurahan-bojongsari.png'
+import SekolahSD from './pskd.png'
+import SekolahSMK from './ts.png'
+import SekolahS1 from './tu.png'
 
-export {Hero, IosGamely, WebManajemen, WebdapurSyadit, RNPuspa, RNMyDoctor, WebHiji, WebKampungRotan, WebKelurahanBojongsari};
+export {Hero, IosGamely, WebManajemen, WebdapurSyadit, RNPuspa, RNMyDoctor, WebHiji, WebKampungRotan, WebKelurahanBojongsari, SekolahSD, SekolahSMK, SekolahS1};

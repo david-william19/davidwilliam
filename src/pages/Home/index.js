@@ -1,6 +1,6 @@
 import React from 'react'
 import { Hero, } from '../../assets';
-import { Container, EmojiContainer, TextContainer } from './style';
+import { Container, EmojiContainer, TextContainer, Title } from './style';
 
 const Home = () => {
     return (
@@ -9,12 +9,13 @@ const Home = () => {
                 <img src={Hero} alt="Logo" />
             </EmojiContainer>
             <TextContainer>
-                <h2>Helo guys...</h2>
-                <p>my name is david william da costa.<br /><br /> i have an experience in <br />HTML, CSS, Javascript, PHP, MySQL, Firebase <br />
-                    Bootstrap, Laravel, React, React Native <br />
-                    Swift and SwiftUI.</p>
-                <p>i was like to learn something new but i focusing in front end developing and also can implementation design to website or mobile.<br />
-                    Creating some clean code for developing to make easy debugging and easy to read it for developer to continue the progress.</p>
+                <Title>WEB DEVELOPER <br />
+                    IOS DEVELOPER <br />
+                    UI/UX ENTHUSIAST
+                </Title>
+                <p style={{fontSize: '18px'}}>hai there!, my name is david william da costa and i was so enthusiast
+                    with technology website, ios app and also design app, if you want
+                    ask me for project or learning just contact me!</p>
             </TextContainer>
         </Container>
     )

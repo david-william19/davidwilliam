@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 export const Container = styled.div`
     margin-top: 90px;
-    padding: 0 90px;
     display: flex;
-    flex-direction: column;
+    margin: 0 60px;
     justify-content: center;
     text-align: left;
-
+    flex-wrap: nowrap;
+    flex-grow: 2;
     h1 {
         font-size: 38px;
     }
@@ -21,4 +21,28 @@ export const Container = styled.div`
     @media only screen and (max-width: 768px) {
        
     }
+`
+
+export const IconContainer = styled.div`
+    margin: 0 auto;
+    background-color: white;
+`
+
+export const ImageContainer = styled.div `
+    width: 50%;
+`
+
+export const Image = styled.img`
+    width: 290px;
+    height: 350px;
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: center center;
+`
+
+export const ImageIcon = styled.img`
+    width: 150px;
+    height: 150px;
 `

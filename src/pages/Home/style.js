@@ -44,3 +44,7 @@ export const TextContainer = styled.div`
             width: 250px;
     }
 `
+
+export const Title = styled.h2 `
+    font-size: 60px;
+`
