@@ -25,7 +25,8 @@ export const Container = styled.div`
 
 export const IconContainer = styled.div`
     margin: 0 auto;
-    background-color: white;
+    display: flex;
+    justify-content: space-between;
 `
 
 export const ImageContainer = styled.div `
@@ -43,6 +44,6 @@ export const Image = styled.img`
 `
 
 export const ImageIcon = styled.img`
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    object-fit: cover;
 `

@@ -47,4 +47,5 @@ export const TextContainer = styled.div`
 
 export const Title = styled.h2 `
     font-size: 60px;
+    text-shadow: 2px 2px 15px #000000;
 `
