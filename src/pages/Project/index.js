@@ -1,18 +1,16 @@
 import React from 'react';
-import { WebHiji, WebManajemen } from '../../assets';
+import { RNPuspa, WebFakultas} from '../../assets';
 import { projectJson } from '../../assets/dummy';
 import { Container, Card, CardBody, CardImg, CardContainer, CodeButton } from './style';
 
 const Project = () => {
-
     return (
         <Container>
             <h1 style={{ color: 'white', textAlign: 'center', margin: '30px', marginTop: '70px' }}>
                 the project i'm working on</h1>
             <CardContainer>
                 {projectJson.map((value, idx) => {
-                    console.log(WebManajemen)
-                    console.log(WebHiji)
+                    console.log(RNPuspa)
                         return (< Card >
                     <CardImg src={value.photo} alt="logo" />
                     <CardBody>

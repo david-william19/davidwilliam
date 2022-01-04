@@ -44,14 +44,21 @@
     {
         "id": 7,
         "title": "Puspa",
-        "photo": "/static/media/reactnative-puspa.26a7b8b3.png",
-        "description": "Puspa merupakan platform mobile aplikasi yang berfungsi sebagai media untuk para tenaga medis yang ada di CISDI untuk melakukan pelatihan dengan mudah dan memberikan pembelajaran terkait bidang kesehatan. teknologi yang digunakan untuk membuat aplikasi ini adalah laravel sanctum dan react native.",
-        "url": "https://github.com/ZDF-HealthLearningPlatfrom/Mobile.git"
+        "photo": "/static/media/reactnative-puspa.57863184.png",
+        "description": "Puspa merupakan platform Website aplikasi yang berfungsi sebagai media untuk para tenaga medis yang ada di CISDI untuk melakukan pelatihan dengan mudah dan memberikan pembelajaran terkait bidang kesehatan. teknologi yang digunakan untuk membuat aplikasi ini adalah laravel sanctum dan react JS.",
+        "url": "https://github.com/CISDIxTelU/Website.git"
     },
     {
         "id": 8,
         "title": "Web Kelurahan Bojongsari",
         "photo": "/static/media/web-kelurahan-bojongsari.0e459eff.png",
+        "description": "web Kelurahan Bojongsari merupakan web aplikasi yang digunakan untuk para anggota keluarga yang ada di kelurahan tersebut untuk membuat surat pernyataan dengan mudah tanpa harus datang ke kelurahan tersebut. teknologi yang digunakan untuk membuat website ini ialah laravel dan bootstrap.",
+        "url": "https://github.com/david-william19/web-surat-pengantar.git"
+    },
+    {
+        "id": 9,
+        "title": "Web Fakultas Rekayasa Industri",
+        "photo": "/static/media/web-fri.67070d6c.png",
         "description": "web Kelurahan Bojongsari merupakan web aplikasi yang digunakan untuk para anggota keluarga yang ada di kelurahan tersebut untuk membuat surat pernyataan dengan mudah tanpa harus datang ke kelurahan tersebut. teknologi yang digunakan untuk membuat website ini ialah laravel dan bootstrap.",
         "url": "https://github.com/david-william19/web-surat-pengantar.git"
     }

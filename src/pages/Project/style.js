@@ -32,7 +32,7 @@ export const CardContainer = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
     gap: 20px;
-    padding: 20px;
+    padding: 0 50px;
 `
 
 export const CodeButton = styled.a`

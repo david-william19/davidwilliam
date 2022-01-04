@@ -1,25 +1,18 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    margin-top: 90px;
+    width: 100%;
     display: flex;
-    margin: 0 60px;
-    justify-content: center;
-    text-align: left;
-    flex-wrap: nowrap;
-    flex-grow: 2;
-    h1 {
-        font-size: 38px;
-    }
-
-    p {
-        color: #fff;
-        font-weight: 400;
-        font-size: 20px;
-    }
+    height: 500px;
+    margin-top: 100px;
+    padding: 0 50px;
+    flex: 1 1;
 
     @media only screen and (max-width: 768px) {
-       
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 `
 
@@ -27,23 +20,37 @@ export const IconContainer = styled.div`
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    @media only screen and (max-width: 768px){
+        width: 110px;
+        display: flex;
+        justify-content: center;
+    }
 `
 
-export const ImageContainer = styled.div `
+export const ImageContainer = styled.div`
     width: 50%;
+    padding: 0;
+    gap: 10px;
+    display: flex;
+    align-items: flex-end;
 `
 
 export const Image = styled.img`
-    width: 290px;
-    height: 350px;
+    width: 48%;
     padding: 0;
     margin: 0;
     border-radius: 10px;
     object-fit: cover;
     object-position: center center;
+    @media only screen and (max-width: 768px){
+        display: none;
+    }
 `
 
 export const ImageIcon = styled.img`
     width: 200px;
     object-fit: cover;
+    @media only screen and (max-width: 768px){
+        width: 80px;
+    }
 `

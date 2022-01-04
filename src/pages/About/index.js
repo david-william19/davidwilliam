@@ -7,8 +7,8 @@ const About = () => {
     return (
         <Container>
             <TextContainer>
-                <h1 style={{ color: 'white' }}>About me</h1>
-                <p style={{ fontSize: '24px', fontWeight: 'lighter' }}>My name is david william da costa, im from indonesia and right now im a student at one of universities in bandung
+                <h1 style={{ color: 'white', fontSize: '2.5rem'}}>About me</h1>
+                <p style={{ fontSize: '18px', fontWeight: 'lighter', margin: '30px 0'}}>My name is david william da costa, im from indonesia and right now im a student at one of universities in bandung
                     take major information system.<br /><br />
 
                     i learn programming from high school with c++ and web programming using html + css + php, from there i start
@@ -25,7 +25,7 @@ const About = () => {
                 </IconContainer>
             </TextContainer>
             <ImageContainer>
-                <div style={{display: 'flex', flexWrap: 'wrap', flexGrow: 2, width: '68%', gap: '15px', padding: '10px 10px', margin: '0 auto'}}>
+                <div style={{display: 'flex', flexWrap: 'wrap', flex: "1 1", gap: '10px', padding: '10px 10px', margin: '0 auto'}}>
                     <Image src="https://images.unsplash.com/photo-1584907797015-7554cd315667?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80" />
                     <Image src="https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80" />
                     <Image src="https://images.unsplash.com/photo-1584907797015-7554cd315667?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80" />
